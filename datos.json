@@ -1,0 +1,111 @@
+[
+    {
+        "nombre": "Joyería textil",
+        "descripcion": "Trabajo realizado en el curso Imagen Textil. Este proyecto fue entregado para el examen del ramo y consistió en una colección de joyería textil hecha a partir de la deshidratación de cítricos.",
+        "fecha": "2024",
+        "signo": "textil",
+        "foto": "naranjas-0",
+        "fotos": ["naranjas-0.jpg, naranjas-1.jpg, naranjas-2.jpg, naranjas-3.jpg, naranjas-4.jpg, naranjas-5.jpg, naranjas-6.jpg"],
+        "github": "https://github.com/florencia-rz" 
+    },
+    {
+        "nombre": "NYC Creates",
+        "descripcion": "En el contexto de un curso intensivo de verano en la Ciudad de Nueva York, se desarrolló una marca que representara la ciudad de manera personal y que a la vez invitara a otros jóvenes a visitarla y vivirla. La propuesta se centró en la capacidad de creación que la ciudad entrega y cómo las personas la intervienen de forma artística. Es por eso que el mismo proyecto invitaba a los espectadores a intervenirla.",
+        "fecha": "2023",
+        "signo": "branding",
+        "foto": "https://github.com/user-attachments/assets/8e6064cd-e3b4-46f1-99a0-1dfd2e7d87f9",
+        "fotos": "nyc-0.jpg, nyc-1.jpg, nyc-2.jpg, nyc-3.jpg, nyc-4.jpg, nyc-5.jpg, nyc-6.jpg",
+        "github": "https://github.com/florencia-rz" 
+    },
+    {
+        "nombre": "Museo Regional de Rancagua",
+        "descripcion": "A partir de asignación de una institución cultural de carácter público, se diseñó una propuesta de marca considerando el rediseño de su logotipo, definición de un nuevo lenguaje visual y una campaña de difusión de marca, además del desarrolló del manual de marca completo.",
+        "fecha": "2023",
+        "signo": "branding",
+        "foto": "https://github.com/user-attachments/assets/9f9126e3-3ba4-455e-8368-3e3beb3922d3",
+        "fotos": "https://github.com/user-attachments/assets/ed472742-a1e4-4cd2-b4e8-cc59c2cb860f",
+        "github": "https://github.com/florencia-rz"
+    },
+    {
+        "nombre": "Voces de un nuevo Chile",
+        "descripcion": "A partir de la elección de una frase de una autora chilena y de un estilo gráfico (en este caso Gabriela Mistral y Cartel Chileno), se desarrolló un afiche tipográfico e ilustrativo para representar la frase elegida. El proceso de creación va desde el diseño conceptual y gráfico del cartel, la construcción de la matriz en madera, hasta la impresión de la xilografía.",
+        "fecha": "2023",
+        "signo": "editorial",
+        "foto": "https://github.com/user-attachments/assets/d6bec161-1f90-4b0a-9464-1c0d3a4ad4ba",
+        "fotos": "https://github.com/user-attachments/assets/1afe2057-d42f-4af4-b327-a31b08b1a4a6",
+        "github": "https://github.com/florencia-rz"
+    },
+    {
+        "nombre": "Exposición fotográfica",
+        "descripcion": "Se diseñó la exposición de manera minimalista para darle protagonismo a las dos colecciones de fotografías que se exhibieron: Flores de Luz y Flores Cortadas.",
+        "fecha": "2023",
+        "signo": "fotografia",
+        "foto": "https://github.com/user-attachments/assets/f4f0706b-bfef-4f85-978f-1cccd50539a7",
+        "fotos": "https://github.com/user-attachments/assets/be9d6b7c-9084-4852-9773-af54f6f825ac",
+        "github": "https://github.com/florencia-rz"
+    },
+    {
+        "nombre": "Casos Policiales",
+        "descripcion": "Este proyecto tiene un objetivo acusativo acerca de situaciones socialmente aceptadas pero que si se pensaran desde otro punto de vista serían graves delitos. Esto se desarrolla a través de la utilización del recurso literario de la metáfora.",
+        "fecha": "2022",
+        "signo": "editorial",
+        "foto": "https://github.com/user-attachments/assets/c0b05cea-d8b6-490f-801c-843ec497fbba",
+        "fotos": "https://github.com/user-attachments/assets/671ad2e5-d270-4524-b761-ebb6258a825e",
+        "github": "https://github.com/florencia-rz"
+    },
+    {
+        "nombre": "Espécimen tipográfico",
+        "descripcion": "Espécimen tipográfico basado en la tipografía Nostra del diseñador Lucas Descroix.",
+        "fecha": "2022",
+        "signo": "editorial",
+        "foto": "https://github.com/user-attachments/assets/12f4a2cd-0190-4344-9d59-97a5e90928a5",
+        "fotos": "https://github.com/user-attachments/assets/a6736162-9210-44b5-ac08-810f4f0bf1db",
+        "github": "https://github.com/florencia-rz"
+    },
+    {
+        "nombre": "Mensajes en la Ciudad",
+        "descripcion": "Este libro es una invitación a observar el patrimonio de la ciudad de Santiago como una materialidad cambiante que evoluciona junto a la sociedad; y es que al ser en origen algo creado a partir de un inconsciente cuyo significado es intrínsecamente único, su resignificación es algo inevitable. El proyecto fue reconocido con una beca de estudios por el festival internacional de arte joven WE:NOW en su convocatoria 2023.",
+        "fecha": "2022",
+        "signo": "editorial",
+        "foto": "https://github.com/user-attachments/assets/d8cf306e-930e-4f99-bd52-e069b00ddd39",
+        "fotos": "https://github.com/user-attachments/assets/32cbed7b-5a19-4001-8655-9addf963e3a3",
+        "github": "https://github.com/florencia-rz"
+    },
+    {
+        "nombre": "Pósters fotográficos",
+        "descripcion": "Los pósters muestran el conjunto de personas en la ciudad, lo que a su vez implica movimiento y velocidad de la vida citadina. Algunas de estas fotografías obtuvieron mención honrosa en el concurso de Giphantie en su versión 2022.",
+        "fecha": "2022",
+        "signo": "fotografia",
+        "foto": "https://github.com/user-attachments/assets/0a091e16-d603-45c3-b358-abb92912ba8e",
+        "fotos": "https://github.com/user-attachments/assets/ce4b5d97-7721-4b5e-b760-63045ff361f4",
+        "github": "https://github.com/florencia-rz"
+    },
+    {
+        "nombre": "Cuentos Clásicos",
+        "descripcion": "El proyecto tiene por objetivo generar un ambiente inmersivo al momento de leer las historias, dando la posibilidad de interactuar con las ilustraciones al tener que descubrirlas.",
+        "fecha": "2022",
+        "signo": "editorial",
+        "foto": "https://github.com/user-attachments/assets/9db208b5-a7f3-4c5c-b217-5a277f5f1886",
+        "fotos": "https://github.com/user-attachments/assets/acb2ca84-fc1e-44a6-a852-eb2cd2855bb8",
+        "github": "https://github.com/florencia-rz"
+    },
+    {
+        "nombre": "Fundación Mis Talentos",
+        "descripcion": "Merchandising desarrollado para las actividades que lleva a cabo la fundación.",
+        "fecha": "2021",
+        "signo": "branding",
+        "foto": "https://github.com/user-attachments/assets/388f25a4-999f-4e13-b5f4-434a51b688ab",
+        "fotos": "https://github.com/user-attachments/assets/d86dc28e-4d10-4c1c-896d-2aba4a1ff3ee",
+        "github": "https://github.com/florencia-rz"
+    },
+    {
+        "nombre": "DeMentes",
+        "descripcion": "Diseño de cubiertas para el libro Dementes de forma tal de reflejar las temáticas de los cuentos. Este libro fue publicado por Simplemente Editores en enero del año 2022.",
+        "fecha": "2021",
+        "signo": "editorial",
+        "foto": "https://github.com/user-attachments/assets/c61c831b-9620-4211-b6a8-62bdabc7522f",
+        "fotos": "https://github.com/user-attachments/assets/50ed3227-034b-4f71-8676-eabc9ca2133d",
+        "github": "https://github.com/florencia-rz"
+    }
+    
+]
