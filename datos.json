@@ -5,7 +5,7 @@
         "fecha": "2024",
         "signo": "textil",
         "foto": "naranjas-0.jpg",
-        "fotos": ["naranjas-0.jpg, naranjas-1.jpg, naranjas-2.jpg, naranjas-3.jpg, naranjas-4.jpg, naranjas-5.jpg, naranjas-6.jpg"],
+        "fotos": ["naranjas-0.jpg", "naranjas-1.jpg", "naranjas-2.jpg" , "naranjas-3.jpg" , "naranjas-4.jpg" , "naranjas-5.jpg" , "naranjas-6.jpg"] ,
         "github": "https://github.com/florencia-rz" 
     },
     {
@@ -14,7 +14,7 @@
         "fecha": "2023",
         "signo": "branding",
         "foto": "nyc-0.jpg",
-        "fotos": "nyc-0.jpg, nyc-1.jpg, nyc-2.jpg, nyc-3.jpg, nyc-4.jpg, nyc-5.jpg, nyc-6.jpg",
+        "fotos": ["nyc-0.jpg" , "nyc-1.jpg" , "nyc-2.jpg" , "nyc-3.jpg", "nyc-4.jpg", "nyc-5.jpg", "nyc-6.jpg"],
         "github": "https://github.com/florencia-rz" 
     },
     {
